@@ -1,8 +1,8 @@
-docnumqwerty111
-contractuiop111
-docnumqwerty222
-contractuiop222
-docnumqwerty333
-contractuiop333
-docnumqwerty444
-contractuiop444
+docnumqwerty111 VALID
+contractuiop111 VALID
+docnumqwerty222 VALID
+contractuiop222 VALID
+docnumqwerty333 VALID
+contractuiop333 VALID
+docnumqwerty444 VALID
+contractuiop444 VALID
